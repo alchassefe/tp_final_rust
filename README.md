@@ -1,5 +1,7 @@
 # TP Final -- MiniRedis
 
+Alexandre Chassefeyre
+
 **Durée : 3h30** | Rust asynchrone | Serveur TCP/JSON
 
 ---
